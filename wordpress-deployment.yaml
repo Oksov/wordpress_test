@@ -6,7 +6,7 @@ metadata:
     app: wordpress
 spec:
   ports:
-     - port: 65502
+     - port: 65501
        targetPort: 80
   externalIPs:
      - 192.168.200.161
